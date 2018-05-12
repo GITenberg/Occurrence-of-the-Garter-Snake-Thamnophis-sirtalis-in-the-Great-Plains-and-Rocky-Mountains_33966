@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '36645'
     url: http://www.gutenberg.org/2009/agents/36645
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33966#Occurrence-of-the-Garter-Snake-Thamnophis-sirtalis-in-the-Great-Plains-and-Rocky-Mountains
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Reptiles and Amphibians

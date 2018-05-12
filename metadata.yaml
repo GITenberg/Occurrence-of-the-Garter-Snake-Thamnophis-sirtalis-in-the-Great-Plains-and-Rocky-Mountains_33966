@@ -1,0 +1,34 @@
+_repo: Occurrence-of-the-Garter-Snake-Thamnophis-sirtalis-in-the-Great-Plains-and-Rocky-Mountains_33966
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Fitch, Henry S. (Henry Sheldon)
+    birthdate: 1909
+    deathdate: 2009
+    gutenberg_agent_id: '36389'
+    url: http://www.gutenberg.org/2009/agents/36389
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Sheldon_Fitch
+  - agent_name: Maslin, T. Paul
+    gutenberg_agent_id: '36645'
+    url: http://www.gutenberg.org/2009/agents/36645
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Reptiles and Amphibians
+gutenberg_issued: '2010-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33966'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Snakes -- North America'
+title: Occurrence of the Garter Snake, Thamnophis sirtalis, in the Great Plains and
+  Rocky Mountains
+url: http://www.gutenberg.org/ebooks/33966
